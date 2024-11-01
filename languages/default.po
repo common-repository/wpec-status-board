@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPEC Status Board\n"
+"POT-Creation-Date: 2013-10-05 06:27-0700\n"
+"PO-Revision-Date: 2013-10-05 06:27-0700\n"
+"Last-Translator: Chris Klosowski <cklosowski@godaddy.com>\n"
+"Language-Team: Chris Klosowski <cklosowski@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\Users\\cklosowski\\development\\plugins\\wpec-"
+"status-board\\trunk\n"
+
+#: C:\Users\cklosowski\development\plugins\wpec-status-board\trunk/wpec-status-board.php:75
+msgid "Sales & Earnings"
+msgstr ""
+
+#: C:\Users\cklosowski\development\plugins\wpec-status-board\trunk/wpec-status-board.php:94
+msgid "Add WP e-Commerce Stats to Status Board"
+msgstr ""
+
+#: C:\Users\cklosowski\development\plugins\wpec-status-board\trunk/wpec-status-board.php:105
+msgid ""
+"To add the graph manually, copy this URL and add it to your Status Board "
+"iPad app."
+msgstr ""
+
+#: C:\Users\cklosowski\development\plugins\wpec-status-board\trunk/wpec-status-board.php:107
+#, php-format
+msgid ""
+"If this gives you a '404' error, try clicking 'Save Changes' on the <a href="
+"\"%s\">Permalinks</a> page to help flush the rewrite rules, and re-add the "
+"graph"
+msgstr ""
+
+#: C:\Users\cklosowski\development\plugins\wpec-status-board\trunk/wpec-status-board.php:108
+#, php-format
+msgid ""
+"If you are still having problems, you can <a href=\"%s\" target=\"new"
+"\">submit a support request</a> and we can try and solve the issue."
+msgstr ""
+
+#: C:\Users\cklosowski\development\plugins\wpec-status-board\trunk/wpec-status-board.php:114
+msgid "Status Board"
+msgstr ""
+
+#: C:\Users\cklosowski\development\plugins\wpec-status-board\trunk/wpec-status-board.php:123
+msgid "Sales"
+msgstr ""
+
+#: C:\Users\cklosowski\development\plugins\wpec-status-board\trunk/wpec-status-board.php:124
+msgid "Earnings"
+msgstr ""
